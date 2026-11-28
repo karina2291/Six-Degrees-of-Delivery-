@@ -4,6 +4,8 @@ Business Analytics & AI Final Project — UTSA Fall 2026
 
 ## Title & Summary
 > [TBD - Title + one-sentence summary]
+> Working title (NEED AGREEMENT) - What Factors Best Predict Negative Reviews
+> (NEED AGREEMENT) - Working summary: analysis of Olist orders to ID which shipping and order factors best predict negative customer reviews (1-2 stars). We used logistic regression to ID strongest predictors in order to flag at-risk orders for support before a negative review is posted.
   
 ## Install
 > [TBD - How to install dependencies - requirements.txt]
