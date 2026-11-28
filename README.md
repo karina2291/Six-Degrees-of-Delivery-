@@ -3,16 +3,16 @@ Business Analytics & AI Final Project — UTSA Fall 2026
 
 
 ## Title & Summary
-> [TBD - Final model result]
+> [TBD - Title + one-sentence summary]
   
 ## Install
-> [TBD - Venv and install commands - requirements.txt]
+> [TBD - How to install dependencies - requirements.txt]
   
 ## Data Load
-> [TBD - .sql file names, how to run them, row counts]
+> [TBD - How to load the data SQL pulls (.sql file names, how to run them, row counts]
   
 ## Run the Analysis
-> [TBD - Notebook/script names and run order]
+> [TBD - How to run the analysis end-to-end]
   
 ## Where the Results Live
-> [TBD - Which cell/outputs file holds each number]
+> [TBD - How to find each result in the write-up]
